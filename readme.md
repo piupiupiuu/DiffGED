@@ -1,6 +1,6 @@
 # DiffGED
 
-This repository is the implementation of paper "DiffGED: Solving Graph Edit Distance via Diffusion-based Graph Matching", which aims to solve graph edit distance (GED) based on generative diffusion-based graph matching model.
+This repository is the implementation of paper "Towards Generative Graph Matching for Graph Edit Distance Computation", which aims to solve graph edit distance (GED) based on generative diffusion-based graph matching model.
 
 ## Get Started
 Please install packages as specified in `requirements.txt`.
